@@ -1,0 +1,9 @@
+.tutorialButton{
+    background-color: rgb(3, 71, 160);
+    letter-spacing: 4px;
+  }
+  .tutorialButton:hover{
+    background-color: rgb(16, 86, 179);
+
+  }
+

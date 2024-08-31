@@ -1,0 +1,32 @@
+.scrollable-container {
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: #ffffff;
+    box-sizing: border-box;
+    border: 1px solid #e0e0e0;  
+    position: relative;
+  }
+
+  .main-container {
+    background-color: blue;
+
+  display: flex;
+  height: 100vh; 
+  width: 100vw;
+} 
+
+
+/* Seção rolável à esquerda (área de mensagens) */
+
+
+
+.left-container{
+    overflow-wrap: break-word; 
+}
+.right-container{
+    width: 10%;
+    overflow-wrap: break-word; 
+}

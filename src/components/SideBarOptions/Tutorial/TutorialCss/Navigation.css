@@ -1,0 +1,9 @@
+.navButton{
+    color: white;
+    padding: 4px 12px;
+    border-radius: 4px;
+    background-color: rgb(3, 61, 136);
+}
+.navButton:hover{
+    background-color: rgb(16, 86, 179);
+}

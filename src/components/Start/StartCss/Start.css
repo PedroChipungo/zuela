@@ -1,0 +1,70 @@
+/* Container principal para a área de chat com duas seções roláveis */
+
+ 
+  .image{
+    width: 300px;
+  }
+
+  
+/* Seção rolável à direita (área de entrada)
+.scrollable-container.right-container {
+  width: 50%;
+  height: 100%;
+  background: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+} */
+
+/* Área de mensagens no contêiner da esquerda */
+/* .chat-messages {
+  flex: 1;
+  overflow-y: auto;
+} */
+
+/* Mensagem individual */
+/* .message {
+  margin-bottom: 16px;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #e0e0e0;
+} */
+
+/* Mensagem do usuário */
+/* .message.user-message {
+  background-color: #d1e7dd;
+  align-self: flex-end;
+}
+
+/* Área de entrada de texto no contêiner da direita */
+/* .input-container {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  background: #ffffff;
+  border-top: 1px solid #e0e0e0;
+} */
+
+/* Campo de texto */
+/* .input-container input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #d1d1d1;
+  border-radius: 8px;
+  margin-right: 8px;
+} */
+
+/* Botão de enviar */
+/* .input-container button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+} */
+
+/* .input-container button:hover {
+  background-color: #0056b3;
+}  */

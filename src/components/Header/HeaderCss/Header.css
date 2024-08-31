@@ -1,0 +1,12 @@
+nav{
+    background-color: rgb(3, 71, 160);
+}
+.button{
+    font-size: 14px;
+    padding: 4px 18px;
+    border: 2px solid white;
+}
+.button:hover{
+    color: rgb(9, 223, 9);
+    border: 2px solid rgb(9, 223, 9);
+}

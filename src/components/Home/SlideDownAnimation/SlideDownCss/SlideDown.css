@@ -1,0 +1,14 @@
+.arrow-down {
+    animation: moveDown 3s infinite;
+}
+
+@keyframes moveDown {
+    0%,100%{
+        transform: translateY(0); /* Seta começa e termina na posição inicial */
+    }
+    50% {
+        transform: translateY(50px); /* Seta move-se 100px para baixo */
+    }
+   
+   
+}
